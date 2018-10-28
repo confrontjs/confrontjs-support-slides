@@ -1,18 +1,18 @@
 # confrontjs-support-slides
 
-:clipboard: Slides for TODO
+:clipboard: Slides for `ConFrontJS 2018`
 
 ## Preview
 
-<https://piecioshka.github.io/confrontjs-support-slides>
+<https://confrontjs.github.io/confrontjs-support-slides/>
 
 ## Organization logo
 
-TODO
+![](images/logo-confrontjs-400x400.png)
 
 ## Event in social media
 
-TODO
+* https://www.facebook.com/events/2149337285314631/
 
 ## Slides engine: [remarkjs](http://remarkjs.com)
 
