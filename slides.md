@@ -1,9 +1,17 @@
 background-image: url(images/logo-confrontjs-1280x720.jpg)
 
 ---
+
+exclude: true
 class: center, middle, slide-invert-colors
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6CbQMclHUSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+class: center, middle, slide-invert-colors
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZVjDTB9Wcng" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
