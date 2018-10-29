@@ -21,7 +21,7 @@ background-image: url(images/background-1.png)
 # Wi-Fi
 
 ## SSID: `Campus Community`
-## PASS: `TODO`
+## PASS: `campusmadrid`
 
 ---
 
