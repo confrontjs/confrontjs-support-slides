@@ -12,11 +12,7 @@
 
 ## Event in social media
 
-* https://www.facebook.com/events/2149337285314631/
-
-## Slides engine: [remarkjs](http://remarkjs.com)
-
-* Download latest version: <https://remarkjs.com/downloads/remark-latest.min.js>
+* <https://www.facebook.com/events/2149337285314631/>
 
 ## License
 
