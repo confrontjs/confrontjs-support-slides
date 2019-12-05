@@ -1,14 +1,10 @@
 # confrontjs-support-slides
 
-:clipboard: Slides for `ConFrontJS 2018`
+:clipboard: Slides for [ConFrontJS](http://confrontjs.com/).
 
 ## Preview
 
 <https://confrontjs.github.io/confrontjs-support-slides/>
-
-## Organization logo
-
-![](images/logo-confrontjs-400x400.png)
 
 ## Event in social media
 
@@ -16,4 +12,4 @@
 
 ## License
 
-[The MIT License](http://piecioshka.mit-license.org) @ 2018
+[The MIT License](http://piecioshka.mit-license.org) @ 2018-2019

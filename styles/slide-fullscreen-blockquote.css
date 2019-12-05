@@ -5,10 +5,10 @@
     padding: 0;
     margin: 0;
     display: inline-block;
+    position: relative;
 }
 
 .remark-slide-content.slide-fullscreen-blockquote blockquote {
-    background: inherit;
     font-style: normal;
     font-size: 50px;
     font-weight: bold;
@@ -26,8 +26,10 @@
     content: "“";
     font-size: 100px;
     color: #f7302f; /* WarsawJS Red */
-    display: inline-block;
-    vertical-align: middle;
+    display: block;
+    position: absolute;
+    left: -50px;
+    top: 0;
 }
 
 .remark-slide-content.slide-fullscreen-blockquote blockquote small {
