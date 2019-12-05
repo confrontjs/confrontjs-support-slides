@@ -330,13 +330,64 @@ background-image: url(images/mc/barry.jpg)
 
 ---
 
-class: volunteers, slide-grid, slide-grid-7-columns, slide-blank
+class: slide-blank, agenda
 background-image: url(images/blank.png)
 background-size: contain
 
-# Agenda
+# Agenda (part 1)
 
-TODO
+* .ignore[08:00 — Registration]
+* .ignore[09:30 — Opening by MC]
+* 09:45 — .tag3[40min] Tomasz Łakomy — Sleeping better at night
+* 10:25 — .tag[30min] Eleftheria Batsou — When you think there is not time for learning or coding
+* 10:55 — .ignore[Coffee Break]
+* 11:10 — .tag[30min] Tetiana Platonova — The Importance of Clean Code
+* 11:50 — .tag[30min] Jerbi Saif — Mastering Reactive Programming with RxJS
+* 12:20 — .ignore[Lunch]
+
+---
+
+class: slide-blank, agenda
+background-image: url(images/blank.png)
+background-size: contain
+
+# Agenda (part 2)
+
+* 13:10 — .tag[30min] Przemysław Zych — Should I fire my DevOps already? <!--Build your infrastructure using TypeScript-->
+* 13:40 — .tag[30min] Wojciech Jureczka — How to change mindset of coworkers?
+* .ignore[14:10 — Activity Break]
+* 14:25 — .tag[30min] Piotr Tomiak — How to help your editor love your Vue component library
+* 14:55 — .tag[30min] Andrzej Mazur — The past, present, and the future of HTML5 game dev
+* .ignore[15:25 — Sponsors Break]
+
+---
+
+class: slide-blank, agenda
+background-image: url(images/blank.png)
+background-size: contain
+
+# Agenda (part 3)
+
+* 15:40 — .tag2[5min] Bonus Lightning Talk
+* 15:45 — .tag2[5min] Yonatan Kra — How close is your data?
+* 15:50 — .tag2[5min] Elad Shechter — Mobile First? Desktop First? <!--Basic First - A New Approach for Responsive Design-->
+* 15:55 — .tag2[5min] Yonatan Doron — Microinteractions: Little Things That Matter
+* 16:00 — .tag2[5min] Nadia Ginalska — The sweet allure of a full rewrite
+* 16:05 — .tag2[5min] Jan Salwowski — Tips for maintainable Vue code
+* 16:10 — .tag2[5min] Tymon Terlikiewicz — Lessons learned migrating from a monolith frontend
+
+---
+
+class: slide-blank, agenda
+background-image: url(images/blank.png)
+background-size: contain
+
+# Agenda (part 4)
+
+* 16:15 — .tag[30min] Roy Derks — Web applications of the future with TypeScript and GraphQL
+* 16:45 — .tag3[40min] Chris Heilmann — Into the web multiverse
+* .ignore[17:25 — Final (Contest’s winner announcement)]
+* .ignore[17:30 — After Party]
 
 ---
 

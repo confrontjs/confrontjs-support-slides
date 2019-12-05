@@ -59,3 +59,42 @@ a {
 .slide-blank > h1 {
     color: #fff;
 }
+
+.agenda {
+    font-family: 'Lato', sans-serif;
+    padding-left: 80px;
+    padding-right: 0;
+}
+
+.agenda ul {
+    list-style: square;
+}
+
+.agenda ul li {
+    line-height: 50px;
+}
+
+.tag {
+    color: #fff;
+    background-color: #A64AC9;
+    padding: 3px 5px;
+    border-radius: 3px;
+}
+
+.tag2 {
+    color: #fff;
+    background-color: #5E99D3;
+    padding: 3px 5px;
+    border-radius: 3px;
+}
+
+.tag3 {
+    color: #000;
+    background-color: #17E9E0;
+    padding: 3px 5px;
+    border-radius: 3px;
+}
+
+.ignore {
+    color: #acafb3;
+}
