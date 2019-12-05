@@ -1,4 +1,6 @@
-# Slajdy początkowe
+class: slide-background-purple
+
+Opening slides...
 
 ---
 
@@ -35,11 +37,17 @@ TODO
 
 ---
 
-class: center, middle
+class: slide-blank
 background-image: url(images/blank.png)
 background-size: contain
 
-# Welcome Venue Sponsor
+# Venue
+
+.text-center[
+
+![](images/venue/logo-lukasiewicz-institute.svg)
+
+]
 
 ---
 
@@ -338,33 +346,13 @@ background-size: contain
 
 # Question
 
-# Who was on the previous ConFrontJS?
+.size80[
 
-## Hands up! 🤚
-
----
-
-class: middle
-background-image: url(images/blank.png)
-background-size: contain
-
-# Survey
-
-## [bit.ly/confrontjs-2019](http://bit.ly/confrontjs-2019)
-
----
-
-class: slide-blank
-background-image: url(images/blank.png)
-background-size: contain
-
-# Venue
-
-.text-center[
-
-![](images/venue/logo-lukasiewicz-institute.svg)
+## Who was on the previous of .bold[ConFrontJS]?
 
 ]
+
+## Hands up! 🤚
 
 ---
 
@@ -410,21 +398,14 @@ background-size: contain
 
 ---
 
-### Newsletter
-
+exclude: true
 class: middle
 background-image: url(images/blank.png)
 background-size: contain
 
+# Newsletter
+
 ## [newsletter.warsawjs.com](https://newsletter.warsawjs.com/)
-
----
-
-### Informacja, że na końcu będzie robili wspólne zdjęcie! 📸
-
----
-
-Let's do this!
 
 ---
 
@@ -438,20 +419,65 @@ background-size: contain
 
 ---
 
-Slajdy końcowe:
+class: slide-background-purple
+
+Closing slides...
 
 ---
 
-### Ankieta
+class: slide-blank
+background-image: url(images/blank.png)
+background-size: contain
 
-### Losowanie nagród
+# Survey
 
-### Uruchomienie Call For Papers na kolejną edycję
+.text-center[
 
-### Podziękowanie prelegentom
+# <br/>[bit.ly/confrontjs-2019](http://bit.ly/confrontjs-2019)
 
-### Podziękowanie sponsorom
+]
 
-### Podziękowanie wolontariuszom
+---
 
-### Wspólne zdjęcie
+class: middle
+background-image: url(images/blank.png)
+background-size: contain
+
+# Contest’s Winner Announcement 🎁
+
+---
+
+class: middle
+background-image: url(images/blank.png)
+background-size: contain
+
+.size80[
+
+## Call For Papers<br/>on .bold[ConFrontJS 2020]<br/>just begins!
+
+]
+
+---
+
+class: slide-blank
+background-image: url(images/blank.png)
+background-size: contain
+
+# Thanks
+
+.size50[
+
+* speakers
+* sponsors
+* volunteers
+* attendees
+
+]
+
+---
+
+class: middle
+background-image: url(images/blank.png)
+background-size: contain
+
+# Can we take a picture together?

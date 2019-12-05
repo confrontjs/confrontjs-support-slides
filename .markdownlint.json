@@ -43,7 +43,8 @@
             "img",
             "kbd",
             "ins",
-            "i"
+            "i",
+            "strike"
         ]
     }
 }
