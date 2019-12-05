@@ -58,6 +58,7 @@ a {
 
 .slide-blank > h1 {
     color: #fff;
+    font-size: 60px !important;
 }
 
 .agenda {

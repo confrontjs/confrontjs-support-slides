@@ -43,9 +43,9 @@ background-size: contain
 
 # Venue
 
-.text-center[
+.text-center.py-5[
 
-![](images/venue/logo-lukasiewicz-institute.svg)
+<img style="width: 500px;" src="images/venue/logo-lukasiewicz-institute.svg" alt=""/>
 
 ]
 
