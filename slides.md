@@ -340,10 +340,10 @@ background-size: contain
 * .ignore[09:30 — Opening by MC]
 * 09:45 — .tag3[40min] Tomasz Łakomy — Sleeping better at night
 * 10:25 — .tag[30min] Eleftheria Batsou — When you think there is not time for learning or coding
-* 10:55 — .ignore[Coffee Break]
+* .ignore[10:55 — Coffee Break]
 * 11:10 — .tag[30min] Tetiana Platonova — The Importance of Clean Code
 * 11:50 — .tag[30min] Jerbi Saif — Mastering Reactive Programming with RxJS
-* 12:20 — .ignore[Lunch]
+* .ignore[12:20 — Lunch]
 
 ---
 
