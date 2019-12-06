@@ -1,0 +1,61 @@
+@charset "utf-8";
+
+.slide-grid .grid-board {
+    display: grid;
+}
+
+.slide-grid .grid-board p {
+    margin: 10px;
+    padding: 10px;
+}
+
+.slide-grid-2-columns .grid-board {
+    grid-template-columns: 50% 50%;
+    grid-template-rows: auto;
+}
+
+.slide-grid-3-columns .grid-board {
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: auto;
+}
+
+.slide-grid-4-columns .grid-board {
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: auto;
+}
+
+.slide-grid-5-columns .grid-board {
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: auto;
+}
+
+.slide-grid-6-columns .grid-board {
+    grid-template-columns: 17% 17% 17% 17% 17% 15%;
+    grid-template-rows: auto;
+}
+
+.slide-grid-7-columns .grid-board {
+    grid-template-columns: 14% 14% 14% 14% 14% 14% 16%;
+    grid-template-rows: auto;
+}
+
+.slide-grid-8-columns .grid-board {
+    grid-template-columns: 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5% 12.5%;
+    grid-template-rows: auto;
+}
+
+.slide-grid-9-columns .grid-board {
+    grid-template-columns: 11.1% 11.1% 11.1% 11.1% 11.1% 11.1% 11.1% 11.1% 11.2%;
+    grid-template-rows: auto;
+}
+
+.slide-grid-10-columns .grid-board {
+    grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+    grid-template-rows: auto;
+}
+
+/* -------------------------------------------------------------------------- */
+
+.slide-grid-with-apla .grid-board p {
+    background-color: rgba(0, 0, 0, 0.5);
+}
