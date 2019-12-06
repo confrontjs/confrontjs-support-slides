@@ -13,7 +13,7 @@ class: center, middle, slide-invert-colors
 
 # Highlights 2018
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6CbQMclHUSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6CbQMclHUSU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ---
 
@@ -27,13 +27,16 @@ background-size: contain
 
 ---
 
-class: middle
+class: slide-blank
 background-image: url(images/blank.png)
 background-size: contain
 
-# Film: Bezpieczeństwo
+# Safety Rules
 
-TODO
+.py-3.text-center[
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d88yi0FHHNM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+]
 
 ---
 
