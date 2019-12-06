@@ -1,19 +1,29 @@
-class: slide-background-purple
-
-Opening slides...
-
----
-
-background-image: url(images/Facebook_1920x1080px.jpg)
-background-size: contain
-
----
-
 class: center, middle, slide-invert-colors
 
 # Highlights 2018
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Q9HgpSkqHZo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+class: slide-blank
+background-image: url(images/blank.png)
+background-size: contain
+
+# Question
+
+.size80[
+
+## Who was at the previous edition of .bold[ConFrontJS]?
+
+]
+
+## Please raise your hand! 🤚
+
+---
+
+background-image: url(images/Facebook_1920x1080px.jpg)
+background-size: contain
 
 ---
 
@@ -333,6 +343,7 @@ background-image: url(images/mc/barry.jpg)
 
 ---
 
+exclude: true
 class: slide-blank, agenda
 background-image: url(images/blank.png)
 background-size: contain
@@ -350,6 +361,7 @@ background-size: contain
 
 ---
 
+exclude: true
 class: slide-blank, agenda
 background-image: url(images/blank.png)
 background-size: contain
@@ -365,6 +377,7 @@ background-size: contain
 
 ---
 
+exclude: true
 class: slide-blank, agenda
 background-image: url(images/blank.png)
 background-size: contain
@@ -381,6 +394,7 @@ background-size: contain
 
 ---
 
+exclude: true
 class: slide-blank, agenda
 background-image: url(images/blank.png)
 background-size: contain
@@ -398,22 +412,6 @@ class: slide-blank
 background-image: url(images/blank.png)
 background-size: contain
 
-# Question
-
-.size80[
-
-## Who was on the previous of .bold[ConFrontJS]?
-
-]
-
-## Hands up! 🤚
-
----
-
-class: slide-blank
-background-image: url(images/blank.png)
-background-size: contain
-
 # Catering & Lunch
 
 .text-center[
@@ -424,6 +422,7 @@ background-size: contain
 
 ---
 
+exclude: true
 class: slide-blank
 background-image: url(images/blank.png)
 background-size: contain
@@ -469,13 +468,41 @@ background-size: contain
 
 # Thanks!
 
-## Have a great <strike>confrontations</strike> conversations!
+## Have great <strike>confrontations</strike> conversations!
+
+---
+
+class: middle, item-in-agenda
+background-image: url(images/blank.png)
+background-size: contain
+
+<img class="avatar" src="images/speakers/tomasz-lakomy.jpg" alt=""/>
+
+## .secondary-color.bold[KEYNOTE SPEAKER]<br/>Tomasz Łakomy<br/>**Sleeping better at night**
+
+<div class="clear"></div>
+
+09:45 — 10:25 .slim[(40min)]
 
 ---
 
 class: slide-background-purple
 
 Closing slides...
+
+---
+
+class: middle, item-in-agenda
+background-image: url(images/blank.png)
+background-size: contain
+
+<img class="avatar" src="images/speakers/chris-heilmann.jpg" alt=""/>
+
+## .secondary-color.bold[KEYNOTE SPEAKER]<br/>Chris Heilmann<br/>**Into the web multiverse**
+
+<div class="clear"></div>
+
+16:45 — 17:25 .slim[(40min)]
 
 ---
 
@@ -497,7 +524,7 @@ class: middle
 background-image: url(images/blank.png)
 background-size: contain
 
-# Contest’s Winner Announcement 🎁
+# Contests Winner Announcement 🎁
 
 ---
 
@@ -507,7 +534,7 @@ background-size: contain
 
 .size80[
 
-## Call For Papers<br/>on .bold[ConFrontJS 2020]<br/>just begins!
+## Call For Papers<br/>for .bold[ConFrontJS 2020]<br/>begins now!
 
 ]
 

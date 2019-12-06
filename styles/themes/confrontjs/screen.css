@@ -99,3 +99,25 @@ a {
 .ignore {
     color: #acafb3;
 }
+
+.item-in-agenda h2 {
+    margin-bottom: 0;
+}
+
+.item-in-agenda .avatar {
+    width: 200px;
+    margin: 0 50px 90px 0;
+    float: left;
+}
+
+.primary-color {
+    color: #17E9E0;
+}
+
+.secondary-color {
+    color: #A64AC9;
+}
+
+.mix-color {
+    color: #5E99D3;
+}
