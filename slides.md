@@ -506,6 +506,38 @@ background-size: contain
 
 ---
 
+class: sponsors, slide-grid, slide-grid-4-columns, slide-blank
+background-image: url(images/blank.png)
+background-size: contain
+
+# Sponsors
+
+.grid-board[
+
+<img class="avatar" src="images/sponsors/logo-grupa-pracuj.svg" alt=""/>
+
+<img class="avatar" src="images/sponsors/logo-olx.svg" alt=""/>
+
+<img class="avatar" src="images/sponsors/logo-jetbrains.svg" alt=""/>
+
+<img class="avatar" src="images/sponsors/logo-docplanner.svg" alt=""/>
+
+<img class="avatar" src="images/sponsors/logo-batmaid.png" alt=""/>
+
+<img class="avatar" src="images/sponsors/logo-cke5.svg" alt=""/>
+
+<img class="avatar" src="images/sponsors/logo-vermag.svg" alt=""/>
+
+<img class="avatar" src="images/sponsors/logo-visuality.svg" alt=""/>
+
+<img class="avatar" src="images/sponsors/logo-lukasiewicz-institute.svg" alt=""/>
+
+<img class="avatar" src="images/sponsors/logo-edc-dark.svg" alt=""/>
+
+]
+
+---
+
 class: slide-blank
 background-image: url(images/blank.png)
 background-size: contain
@@ -532,9 +564,39 @@ class: middle
 background-image: url(images/blank.png)
 background-size: contain
 
-.size80[
+.size50[
 
 ## Call For Papers<br/>for .bold[ConFrontJS 2020]<br/>begins now!
+
+]
+
+# [bit.ly/confrontjs-2020-cfp](http://bit.ly/confrontjs-2020-cfp)
+
+---
+
+class: slide-blank
+background-image: url(images/blank.png)
+background-size: contain
+
+# After Party
+
+<br/>You are invited to an after party!
+
+.box.left.half-width.m-0.px-4.py-1.background-confrontjs-primary[
+
+## Part one
+
+* Live music performance!<br/><br/><br/>
+
+]
+
+.box.right.half-width.m-0.px-4.py-1.background-confrontjs-secondary[
+
+## Part two
+
+* Place: **Drugie Dno**
+* Nowogrodzka 4
+* Starts about 19:00
 
 ]
 

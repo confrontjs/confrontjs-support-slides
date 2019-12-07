@@ -89,3 +89,13 @@
 .remark-slide-content.slide-background-green a {
     color: #83a956;
 }
+
+/* ---------- */
+
+.background-confrontjs-primary  {
+    background-color: rgba(23,233,224, 0.3);
+}
+
+.background-confrontjs-secondary {
+    background-color: rgba(166, 74, 201, 0.3);
+}
