@@ -22,7 +22,7 @@ background-size: contain
 
 .size80[
 
-## Who was at the previous edition of .bold[ConfrontJS]?
+## Who has been at the previous editions of .bold[ConfrontJS]?
 
 ]
 
