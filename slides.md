@@ -35,13 +35,19 @@ background-size: contain
 
 ---
 
+background-image: url(images/confrontjs.png)
+background-size: contain
+
+---
+
 class: middle
 background-image: url(images/blank.png)
 background-size: contain
 
 # Wi-Fi
 
-## SSID: `<draft kinoteka!>`
+## SSID: `Kinoteka`
+## Pass: `KinoTeka2022`
 
 ---
 
@@ -90,56 +96,10 @@ background-size: contain
 
 ---
 
-class: partners, slide-grid, slide-grid-10-columns, slide-blank
-background-image: url(images/sponsors_2.png)
-background-size: contain
-
----
 
 class: partners, slide-grid, slide-grid-10-columns, slide-blank
 background-image: url(images/partners.png)
 background-size: contain
-
-
-<!-- ---
-
-class: volunteers, slide-grid, slide-grid-7-columns, slide-blank
-background-image: url(images/blank.png)
-background-size: contain
-
-# Volunteers
-
-.grid-board[
-
-<img class="avatar" src="images/volunteers/anna-lukianova.jpg" alt=""/>
-
-<img class="avatar" src="images/volunteers/bartek-legiec.jpg" alt=""/>
-
-<img class="avatar" src="images/volunteers/jacek-mikrut.jpg" alt=""/>
-
-<img class="avatar" src="images/volunteers/krzysztof-calinski.jpg" alt=""/>
-
-<img class="avatar" src="images/volunteers/lukasz-basaj.jpg" alt=""/>
-
-<img class="avatar" src="images/volunteers/maciej-jalocha.jpg" alt=""/>
-
-<img class="avatar" src="images/volunteers/marcin-jankowski.jpg" alt=""/>
-
-<img class="avatar" src="images/volunteers/michal-oreziak.jpg" alt=""/>
-
-<img class="avatar" src="images/volunteers/michal-slusarski.jpg" alt=""/>
-
-<img class="avatar" src="images/volunteers/natalia-kedziora.jpg" alt=""/>
-
-<img class="avatar" src="images/volunteers/nataliya-pasichnyk.jpg" alt=""/>
-
-<img class="avatar" src="images/volunteers/piotr-slawinski.jpg" alt=""/>
-
-<img class="avatar" src="images/volunteers/tetiana-platonova.jpg" alt=""/>
-
-<img class="avatar" src="images/volunteers/ula-kazmierczyk.jpeg" alt=""/>
-
-] -->
 
 ---
 
@@ -190,9 +150,35 @@ background-size: contain
 
 ---
 
+
 class: partners, slide-grid, slide-grid-10-columns, slide-blank
-background-image: url(images/sponsors_2.png)
+background-image: url(images/monday.png)
 background-size: contain
+
+---
+
+class: partners, slide-grid, slide-grid-10-columns, slide-blank
+background-image: url(images/allegro.png)
+background-size: contain
+
+---
+
+class: partners, slide-grid, slide-grid-10-columns, slide-blank
+background-image: url(images/SpeakersConfrontJS2022.png)
+background-size: contain
+
+---
+
+class: partners, slide-grid, slide-grid-10-columns, slide-blank
+background-image: url(images/VolontariuszeConfrontJS2022.png)
+background-size: contain
+
+---
+
+class: slide-blank
+background-image: url(images/radio-it.png)
+background-size: contain
+
 
 <!-- ---
 
@@ -241,6 +227,13 @@ background-size: contain
 ---
 
 class: slide-blank
+background-image: url(images/radio-it.png)
+background-size: contain
+
+
+---
+
+class: slide-blank
 background-image: url(images/blank.png)
 background-size: contain
 
@@ -254,6 +247,13 @@ background-size: contain
 * attendees
 
 ]
+
+---
+
+class: center, middle, slide-invert-colors
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xCWM1AjzL2E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ---
 
