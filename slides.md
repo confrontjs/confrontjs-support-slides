@@ -181,7 +181,7 @@ class: partners, slide-grid, slide-grid-10-columns, slide-blank
 background-image: url(images/VolontariuszeConfrontJS2022.png)
 background-size: contain
 
----
+<!-- --- -->
 
 <!-- ---
 
@@ -208,9 +208,9 @@ background-size: contain
 
 ]
 
-# [bit.ly/confrontjs-2020-cfp](http://bit.ly/confrontjs-2020-cfp)
+# [bit.ly/confrontjs-2020-cfp](http://bit.ly/confrontjs-2020-cfp) -->
 
---- -->
+---
 
 class: slide-blank
 background-image: url(images/blank.png)
