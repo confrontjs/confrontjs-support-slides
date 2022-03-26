@@ -144,7 +144,7 @@ background-size: contain
 ---
 
 class: sponsors, slide-grid, slide-grid-4-columns, slide-blank
-background-image: url(images/sponsors_1.png)
+background-image: url(images/sponsors.png)
 background-size: contain
 
 
@@ -221,13 +221,6 @@ background-size: contain
 ---
 
 class: slide-blank
-background-image: url(images/radio-it.png)
-background-size: contain
-
-
----
-
-class: slide-blank
 background-image: url(images/blank.png)
 background-size: contain
 
@@ -247,6 +240,13 @@ background-size: contain
 class: center, middle, slide-invert-colors
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/xCWM1AjzL2E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+---
+
+class: center, middle, slide-invert-colors
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/I4-U6sJwxN0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ---
