@@ -175,11 +175,6 @@ background-size: contain
 
 ---
 
-class: slide-blank
-background-image: url(images/radio-it.png)
-background-size: contain
-
-
 <!-- ---
 
 class: slide-blank
@@ -208,7 +203,6 @@ background-size: contain
 # [bit.ly/confrontjs-2020-cfp](http://bit.ly/confrontjs-2020-cfp)
 
 --- -->
----
 
 class: slide-blank
 background-image: url(images/blank.png)
