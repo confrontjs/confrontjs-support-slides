@@ -90,7 +90,7 @@ background-size: contain
 ---
 
 class: sponsors, slide-grid, slide-grid-4-columns, slide-blank
-background-image: url(images/sponsors_1.png)
+background-image: url(images/sponsors.png)
 background-size: contain
 
 
